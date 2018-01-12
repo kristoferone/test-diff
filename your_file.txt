@@ -1,84 +1,119 @@
-<p>Canadian Blood Services is committed to supporting employees in managing all aspects of their overall health and well-being, including physical, social and mental to achieve optimal balance in their lives. Our mission is to provide our employees with a variety of resources and services to support their overall health and well-being, and help take steps towards leading a healthy life.</p>
-
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="cache-control" content="max-age=0">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 11:00:00 GMT">
+<meta http-equiv="pragma" content="no-cache">
+<title>Employee Page - ABOut You</title>
+<script type="text/javascript" src="js/cssmenu.js"> </script>
+<link href="css/cssmenu.css" rel="stylesheet" type="text/css">
+<link href="css/twoColHybLtHdr.css" rel="stylesheet" type="text/css"><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColHybLtHdr #sidebar1 { padding-top: 30px; }
+.twoColHybLtHdr #mainContent { zoom: 1; padding-top: 15px; }
+/* the above proprietary zoom property gives IE the hasLayout it may need to avoid several bugs */
+</style>
+<![endif]-->
+</head>
+ 
+<body class="twoColHybLtHdr"><div id="container"><script type="text/javascript" src="js/header.js"></script>
+  <div id="sidebar1"><script type="text/javascript" src="js/sidemenu.js"></script>
+  <!-- end #sidebar1 --></div>
+  <div id="mainContent">
+ 
+<!--ONLY EDIT AFTER THIS LINE ...-->
+ 
+<!-- Back Button -->
+<FORM>
+ <div align="right">
+<INPUT Type="BUTTON" Value="Home" Onclick="window.location.href='http://cbswdb001/EmployeePage//'"> 
+<INPUT Type="BUTTON" Value="Contacts" Onclick="window.location.href='http://cbswdb001/EmployeePage/Contact%20Us.html'">
+</div> 
+</FORM>
+<!-- Back Button End-->
+<!-- Title -->
+<h3>Employee wellness at Canadian Blood Services</h3>
+ 
+<!-- Title End-->
+ 
+<p>Canadian Blood Services is committed to supporting employees in managing all aspects of their overall health and well-being, including physical, social and mental to achieve optimal balance in their lives.  Our mission is to provide our employees with a variety of resources and services to support their overall health and well-being, and help take steps towards leading a healthy life. </p>
 <p><strong>Wellness team members</strong></p>
-
 <p>Katie O'Brien, (ext. 2434), <a href="mailto:katie.obrien@blood.ca ">katie.obrien@blood.ca </a></p>
-
 <p>Carolyn Powell, (ext. 5714), <a href="mailto:carolyn.powell@blood.ca ">carolyn.powell@blood.ca </a></p>
-
-<p><strong>Wellness champions</strong></p>
-
-<p>Wellness champions are individuals who are passionate about and committed to promoting wellness in the workplace. They look for new ways to educate and inspire a wellness attitude in colleagues. They are involved in developing and supporting wellness events and initiatives throughout the year on a local and national level, and make recommendations to improve the wellness program.</p>
-
-<p><strong>Become a wellness champion</strong></p>
-
-<p>We are always looking for local wellness champions across the organization to support wellness activities and initiatives. To learn how you can become involved in creating a healthier work environment contact one of our wellness team members today!</p>
-
-<p><strong>Wellness initiatives</strong></p>
-
-<p><strong>Flu clinics</strong></p>
-
-<p>As part of the Canadian Blood Services' wellness program, on-site flu shot clinics are offered annually. Protect yourself, loved ones, co-workers and donors by getting immunized at one of Canadian Blood Services' on-site flu clinics or at a public clinic in your location.</p>
-
-<p>For more information about 2017 flu clinic schedules and registration, please check out our <a href="Flu_Clinic.html">flu clinic page</a>.</p>
-
-<p>If you have any questions, please email <a href="mailto:Thrive@blood.ca ">Thrive@blood.ca </a></p>
-
+  <p><strong>Wellness champions</strong></p>
+  <p>Wellness champions are individuals who are passionate about and committed to promoting wellness in the workplace.  They look for new ways to educate and inspire a wellness attitude in colleagues. They are involved in developing and supporting wellness events and initiatives throughout the year on a local and national level, and make recommendations to improve the wellness program. </p>
+  <p><strong>Become a wellness champion</strong></p>
+  <p>We are always looking for local wellness champions across the organization to support wellness activities and initiatives. To learn how you can become involved in creating a healthier work environment contact one of our wellness team members today!</p>
+  <p><strong>Wellness initiatives</strong></p>
+  <p><strong>Flu clinics</strong></p>
+  <p>As part of the Canadian Blood Services' wellness program, on-site flu shot clinics are offered annually. Protect yourself, loved ones, co-workers and donors by getting immunized at one of Canadian Blood Services' on-site flu clinics or at a public clinic in your location. </p>
+  <p>For more information about 2017 flu clinic schedules and registration, please check out our <a href="Flu_Clinic.html">flu clinic page</a>.</p>
+  <p>If you have any questions, please email <a href="mailto:Thrive@blood.ca ">Thrive@blood.ca </a></p>
 <p><a href="https://blood.lifespeak.com/Share.aspx?key=b9a57671-b4fc-4f97-a212-1ce7b2537505--language-1" target="_blank">LifeSpeak</a></p>
-
-<p>Access hundreds of health and wellness video modules led by accredited professionals in their field. Take your pick from the format that works best for you. E-learning modules are available 24 hours a day, seven days a week – whenever it's most convenient for you and most of the videos are six to eight minutes long!</p>
-
-<p>Go to: blood.lifespeak.com<br>
-Corporate id: thrive</p>
-
-<p><strong>On-site wellness activities</strong></p>
-
-<p>Through our partnership with GoodLife, we are able to offer on-site massages, classes or stretch and breathe sessions. If you would like to organize a session at your location please email <a href="mailto:Thrive@blood.ca">Thrive@blood.ca</a></p>
-
-<p><strong>Webinars</strong></p>
-
-<p>Throughout the year we offer free webinars on a variety of wellness related topics.</p>
-
-<p><strong>The Whole You: Mood, Food, and Attitude</strong></p>
-
-<p>Attendees will learn how the body is meant to work optimally; how some of our diet and lifestyle habits "get in the way" of this ideal, homeostatic functioning of the body; and how we can turn it around via nutrition, supplementation and lifestyle support.</p>
-
-<p><strong>Webinar Recordings</strong></p>
-
-<p>Coming soon!</p>
-
-<p><strong>Wellness Tools</strong></p>
-
-<p>The following tools are designed to keep you motivated and on track towards better health. These tools should never replace the advice of your family physician.</p>
-
-<p><a href="http://caloriecontrol.org/healthy-weight-tool-kit/get-moving-calculator/" target="_blank">Calorie Burning Calculator </a><br>
-<a href="http://homeremedyshop.com/widgets/fast-food/" target="_blank">How Long to Burn off Fast Food? </a><br>
-<a href="https://www.healthlinkbc.ca/health-topics/tx4374" target="_blank">Goal Heart Rate Calculator </a><br>
-<a href="https://www.canada.ca/en/health-canada/services/food-nutrition/canada-food-guide/food-guide-basics/estimated-energy-requirements.html" target="_blank">BMR Chart</a><br>
-<a href="https://www.quitnow.ca/quitting/calculate-my-savings" target="_blank">Cost of Smoking Calculator </a><br>
-<a href="http://www.hc-sc.gc.ca/ahc-asc/calend/index-eng.php" target="_blank">Health Promotion Calendar </a><br>
-<a href="http://www.healthycanadians.gc.ca/eating-nutrition/healthy-eating-saine-alimentation/tips-conseils/interactive-tools-outils-interactifs/eat-well-bien-manger-eng.php?_ga=2.15409462.1845322388.1499711939-1080601169.1499711939" target="_blank">Eat Well Plate </a></p>
-
-<p><strong>Mental health</strong></p>
-
-<p>Supporting employees' optimal mental health is a matter of great importance at Canadian Blood Services. While mental illness can be prevented and treated, the stigma surrounding mental illness often remains a barrier to people seeking help. We encourage you to learn more, speak up or seek help if you or someone you know is displaying symptoms of mental illness.</p>
-
-<p>Canadian Blood Services offers a variety of resources to help employees maintain their overall sense of well-being and keep mentally healthy. The following programs offer tools and services that support employee mental health.</p>
-
-<p><u>EAP</u>: Qualified staff at ComPsych Guidance Resources — a third-party, confidential provider of EAP services — help find solutions to all kinds of challenges that employees and their families may face at any age or stage of life.</p>
-
-<p><u>LifeSpeak</u>: Health and wellness video modules led by accredited professionals in their field.</p>
-
-<p><u>Benefits</u>: Employees enrolled in Group Benefits with Canadian Blood Services have access to prescription drugs and to paramedical services that support mental wellbeing.</p>
-
-<p>Below is a list of external resources to help you learn more about protecting your mental health and to take action to improve your mental health and that of those around you:</p>
-
-<p><a href="http://www.cmha.ca/bins/index.asp" target="_blank">Canadian Mental Health Association </a><br>
-<a href="http://www.camh.net/" target="_blank">Canadian Centre for Addiction and Mental Health </a><br>
-<a href="http://suicideinfo.ca/" target="_blank">Centre for Suicide Prevention </a><br>
-<a href="http://www.checkupfromtheneckup.ca/" target="_blank">checkupfromtheneckup.ca </a><br>
-<a href="http://www.gwlcentreformentalhealth.com/" target="_blank">Great West life Centre for Mental Health </a></p>
-
-<p>&nbsp;</p>
-
-<p><a href="Goodlife_Fitness.html">GoodLife fitness: discounted membership program</a></p>
+  <p>Access hundreds of health and wellness video modules led by accredited professionals in their field. Take your pick from the format that works best for you. E-learning modules are available 24 hours a day, seven days a week – whenever it's most convenient for you and most of the videos are six to eight minutes long! </p>
+  <p>Go to: blood.lifespeak.com <br>
+    Corporate id: thrive </p>
+  <p>After signing in using the Corporate ID, please select the icon in the top-right of the screen to create your own personal account </p>
+  <p><strong>Watch and Win with LifeSpeak for diabetes awareness!</strong></p>
+  <p>From Nov. 14 to Nov. 24 2017, every time you watch a LifeSpeak video and submit your name by clicking on the Watch and Win icon, your name will be entered to win <strong>one of four $25 Presidents Choice Gift Cards</strong>. Enter as many times as you like – the more you watch, the better your chances! Head to LifeSpeak by clicking on the link above to start watching.</p>
+  <p>&nbsp;</p>
+  <p><strong>On-site wellness activities</strong></p>
+  <p>Through our partnership with GoodLife, we are able to offer on-site massages, classes or stretch and breathe sessions. If you would like to organize a session at your location please email <a href="mailto:Thrive@blood.ca">Thrive@blood.ca</a></p>
+  <p><strong>Webinars</strong></p>
+  <p>Throughout the year we offer free webinars on a variety of wellness related topics.</p>
+  <p><strong>The Whole You: Mood, Food, and Attitude</strong></p>
+  <p>Attendees will learn how the body is meant to work optimally; how some of our diet and lifestyle habits &quot;get in the way&quot; of this ideal, homeostatic functioning of the body; and how we can turn it around via nutrition, supplementation and lifestyle support.</p>
+  <p><strong>Webinar Recordings</strong></p>
+  <p>Coming soon!</p>
+  <p><strong>Wellness Tools</strong></p>
+  <p>The following tools are designed to keep you motivated and on track towards better health. These tools should never replace the advice of your family physician. </p>
+  <p><a href="http://caloriecontrol.org/healthy-weight-tool-kit/get-moving-calculator/" target="_blank">Calorie Burning Calculator </a><br>
+    <a href="http://homeremedyshop.com/widgets/fast-food/" target="_blank">How Long to Burn off Fast Food? </a><br>
+    <a href="https://www.healthlinkbc.ca/health-topics/tx4374" target="_blank">Goal Heart Rate Calculator </a><br>
+    <a href="https://www.canada.ca/en/health-canada/services/food-nutrition/canada-food-guide/food-guide-basics/estimated-energy-requirements.html" target="_blank">BMR Chart</a><br>
+    <a href="https://www.quitnow.ca/quitting/calculate-my-savings" target="_blank">Cost of Smoking Calculator </a><br>
+    <a href="http://www.hc-sc.gc.ca/ahc-asc/calend/index-eng.php" target="_blank">Health Promotion Calendar </a><br>
+    <a href="http://www.healthycanadians.gc.ca/eating-nutrition/healthy-eating-saine-alimentation/tips-conseils/interactive-tools-outils-interactifs/eat-well-bien-manger-eng.php?_ga=2.15409462.1845322388.1499711939-1080601169.1499711939" target="_blank">Eat Well Plate </a></p>
+  <p><strong>Mental health</strong></p>
+  <p>Supporting employees' optimal mental health is a matter of great importance at Canadian Blood Services. While mental illness can be prevented and treated, the stigma surrounding mental illness often remains a barrier to people seeking help. We encourage you to learn more, speak up or seek help if you or someone you know is displaying symptoms of mental illness. </p>
+  <p>Canadian Blood Services offers a variety of resources to help employees maintain their overall sense of well-being and keep mentally healthy.  The following programs offer tools and services that support employee mental health.</p>
+  <ul>
+    <li><u>EAP</u>: Qualified staff at ComPsych Guidance Resources — a third-party, confidential provider of EAP services — help find solutions to all kinds of challenges that employees and their families may face at any age or stage of life. </li>
+    <li><u>LifeSpeak</u>: Health and wellness video modules led by accredited professionals in their field. </li>
+    <li><u>Benefits</u>: Employees enrolled in Group Benefits with Canadian Blood Services have access to prescription drugs and to paramedical services that support mental wellbeing. </li>
+    </ul>
+  <p>Below is a list of external resources to help you learn more about protecting your mental health and to take action to improve your mental health and that of those around you: </p>
+  <p><a href="http://www.cmha.ca/bins/index.asp" target="_blank">Canadian Mental Health Association </a><br>
+    <a href="http://www.camh.net/" target="_blank">Canadian Centre for Addiction and Mental Health </a><br>
+    <a href="http://suicideinfo.ca/" target="_blank">Centre for Suicide Prevention </a><br>
+    <a href="http://www.checkupfromtheneckup.ca/" target="_blank">checkupfromtheneckup.ca </a><br>
+    <a href="http://www.gwlcentreformentalhealth.com/" target="_blank">Great West life Centre for Mental Health </a></p>
+  <p>&nbsp;</p>
+  <p><a href="Goodlife_Fitness.html">GoodLife fitness: discounted membership program</a></p>
+  </div>
+  
+<!--ONLY EDIT BEFORE THIS LINE ...-->
+  <!-- these extra paragraphs are just to push the main content longer than the menu -->
+  <!-- end #mainContent --></p>
+ 
+	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats -->
+	<!-- br class="clearfloat" / -->
+<!-- end #container --></div>
+<!-- Piwik --> 
+<script type="text/javascript"> 
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://cbswdb001/piwik/" : "http://cbswdb001/piwik/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript"> 
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://cbswdb001/piwik/piwik.php?idsite=3" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+</body>
+</html>
